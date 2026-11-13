@@ -6,7 +6,7 @@
   "imageUrl": "",
   "buttonText": "অ্যাপে Rating ও Review দিতে Visit করুন",
   "buttonUrl": "https://play.google.com/store/apps/details?id=com.sarkarsab.daily_zikir",
-  "frequency": "always",
+  "frequency": "daily",
   "startDate": "2026-11-13",
   "endDate": "2026-11-20"
 }
