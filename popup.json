@@ -11,14 +11,16 @@
       "notifyFrequency": "once"
     },
     {
-      "enabled": true,
-      "id": "update-4-0-1",
-      "title": "নতুন আপডেট",
-      "message": "অ্যাপে নতুন ফিচার এসেছে",
-      "buttonText": "আপডেট করুন",
-      "buttonUrl": "https://play.google.com/store/apps/details?id=com.sarkarsab.daily_zikir",
-      "frequency": "once",
-      "notifyFrequency": "daily"
-    }
+  "enabled": true,
+  "id": "notice-2026-11-18",
+  "title": "আসসালামু আলাইকুম 🌙",
+  "message": "প্রিয় ভাই ও বোনেরা,\nআমাদের অ্যাপে নামাজের সময়ের নোটিফিকেশন যোগ হয়েছে। সেটিংস থেকে চালু করে নিন।\nআমাদের জন্য দোয়া করবেন।",
+  "imageUrl": "",
+  "buttonText": "অ্যাপ আপডেট করুন",
+  "buttonUrl": "https://play.google.com/store/apps/details?id=com.sarkarsab.daily_zikir",
+  "frequency": "always",
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-30"
+}
   ]
 }
