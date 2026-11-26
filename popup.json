@@ -11,14 +11,14 @@
       "notifyFrequency": "once"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "id": "update-4-0-1",
       "title": "আসসালামু আলাইকুম 🌙",
       "message": "প্রিয় ভাই ও বোনেরা,\nআমাদের অ্যাপে নামাজের সময়ের নোটিফিকেশন যোগ হয়েছে। সেটিংস থেকে চালু করে নিন।\nআমাদের জন্য দোয়া করবেন",
       "buttonText": "অ্যাপ আপডেট করুন",
       "buttonUrl": "https://play.google.com/store/apps/details?id=com.sarkarsab.daily_zikir",
       "frequency": "once",
-      "notifyFrequency": "none"
+      "notifyFrequency": "once"
     }
   ]
 }
